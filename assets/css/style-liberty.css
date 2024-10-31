@@ -19185,6 +19185,9 @@ ul.follow-social li a {
 .about-single {
   background: var(--bg-color);
   padding: 40px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
   min-height: 320px;
   justify-content: space-between;
   border-radius: var(--border-radius);
@@ -23884,9 +23887,7 @@ pre {
 .skill-tittle {
   font-size: 18px;
   font-weight: 200;
-  color: #333;
   padding: 10px;
-  background-color: #f8f9fa;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
